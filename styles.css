@@ -1,0 +1,35 @@
+.outerContainer {
+  width: 310px;
+  height: 675px;
+  text-align: center;
+  border: 2px;
+  border-style: solid;
+  border-color: grey;
+  background-color: brown;
+}
+
+.innerContainer {
+  text-align: left;
+  margin-top: 10px;
+  margin-left: 39.5px;
+  margin-right: 39.5px;
+  width: 225px;
+  height: 360px;
+  border-style: dotted;
+  border-color: grey;
+}
+
+.infoMargin {
+  margin: 20px;
+}
+
+ul
+{
+  font-size: 11pt;
+  padding-left: 0;
+  list-style-type: none;
+}
+
+li span{
+  font-weight: bold;
+  }
